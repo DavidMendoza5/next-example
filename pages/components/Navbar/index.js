@@ -6,9 +6,9 @@ export function Navbar() {
     <div>
       <nav>
         <ul>
-          <li><Link href='/'><a>Home</a></Link></li>
-          <li><Link href='/dashboard'><a>Dashboard</a></Link></li>
-          <li><Link href='/product'><a>Product</a></Link></li>
+          <li><a href='/'>Home</a></li>
+          <li><a href='/dashboard'>Dashboard</a></li>
+          <li><a href='/product'>Product</a></li>
         </ul>
       </nav>
     </div>
